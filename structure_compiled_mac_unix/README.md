@@ -1,0 +1,3 @@
+# This folder contains the required backend and frontend files to run the structure program. 
+
+## This was compiled and tested on MacBook Pro M1. Linux compatibility to be verified...
